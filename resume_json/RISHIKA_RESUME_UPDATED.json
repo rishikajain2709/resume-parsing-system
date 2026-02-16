@@ -1,0 +1,80 @@
+{
+    "Candidate_Emp_ID": "Bharat Bhraman",
+    "Candidate_name": "Bharat Bhraman",
+    "Current_Role": "Software Developer",
+    "Candidate_grade": "insufficient data",
+    "Profile_location": "insufficient data",
+    "Domains_known": [
+        "A.I.",
+        "Trip Planner",
+        "Python",
+        "Flask",
+        "Generative AI",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node",
+        "Java",
+        "C",
+        "MySQL",
+        "DSA",
+        "UI/UX",
+        "Full-stack development"
+    ],
+    "Total_experience_years": "insufficient data",
+    "Tech_skillset": {
+        "primary_tech_skills": [
+            "Python",
+            "Flask",
+            "JavaScript",
+            "React",
+            "Node",
+            "Java",
+            "C",
+            "MySQL"
+        ],
+        "secondary_tech_skills": [
+            "Generative AI",
+            "HTML",
+            "CSS",
+            "DSA",
+            "UI/UX",
+            "Full-stack development"
+        ]
+    },
+    "Functional_skillset": [
+        "Problem-solving",
+        "Innovative thinking",
+        "Team collaboration",
+        "Responsive web design",
+        "Cross-browser compatibility",
+        "Accessibility",
+        "User interface design",
+        "User experience design",
+        "State handling",
+        "RESTful API integration"
+    ],
+    "Overall_responsibilities": [
+        "Developed an AI Trip Planner",
+        "Designed and developed responsive website",
+        "Gained expertise in responsive web design",
+        "Collaborated effectively within a team",
+        "Mastered state handling with React hooks",
+        "Enhanced RESTful API integration skills",
+        "Created an intuitive recipe management system",
+        "Focused on usability and responsive design principles",
+        "Redesigned the Omega watch website and Cadbury’s website",
+        "Utilized advanced libraries like ScrollTrigger, GSAP, and Locomotive JS"
+    ],
+    "Previously_worked_for_the_customer": "no",
+    "Count_of_projects": "5",
+    "Current_project_age": "insufficient data",
+    "Fitness_summary": [
+        "Won first place among 100 teams in Hackfest '24",
+        "Earned the top spot among 180 students at Sheryians Pvt Limited",
+        "Actively participated in renowned hackathons",
+        "Mentored over 200 students in C and over 100 students in Java",
+        "Received 5 stars in Java and MySQL by HackerRank"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Candidate_Emp_ID": "SIDDHARTH JAIN",
+    "Candidate_name": "SIDDHARTH JAIN",
+    "Current_Role": "Data Engineer",
+    "Candidate_grade": "insufficient data",
+    "Profile_location": "insufficient data",
+    "Domains_known": [
+        "big data processing",
+        "real-time pipelines",
+        "cloud-based analytics"
+    ],
+    "Total_experience_years": "2",
+    "Tech_skillset": {
+        "primary_tech_skills": [
+            "PySpark",
+            "Java",
+            "SQL",
+            "Hadoop",
+            "AWS services"
+        ],
+        "secondary_tech_skills": [
+            "Apache Spark",
+            "Apache Mahout",
+            "Cloudera",
+            "Jupyter",
+            "Google Colab",
+            "Databricks",
+            "Tableau",
+            "Hive QL",
+            "Scala",
+            "Sqoop"
+        ]
+    },
+    "Functional_skillset": [
+        "Management and Leadership Skills",
+        "Project management",
+        "Clear communication",
+        "Cross-functional collaboration",
+        "Agile/Scrum Methodologies"
+    ],
+    "Overall_responsibilities": [
+        "Planning and task allocation",
+        "Project management",
+        "Clear communication",
+        "Cross-functional collaboration",
+        "Agile/Scrum Methodologies"
+    ],
+    "Previously_worked_for_the_customer": "no",
+    "Count_of_projects": "2",
+    "Current_project_age": "insufficient data",
+    "Fitness_summary": [
+        "Completed Capgemini Big Data Training Program",
+        "Participated in hands-on sessions involving real-world datasets and recommendation engine development",
+        "Learned AWS fundamentals including S3 data transfer and permission management"
+    ]
+}

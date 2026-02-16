@@ -1,0 +1,169 @@
+SIDDHARTH JAIN	
+
+Professional Summary
+
+Data Engineer with expertise in big data processing, real-time pipelines, and cloud-based analytics. Completed 2-month Big Data training at Capgemini, build a project that is personalized recommendation engine using Hadoop, PySpark, and AWS services on an e-commerce dataset. I am skilled in data processing, distributed computing, and proficient in Java and SQL.
+
+
+
+Skills Profile
+
+Technical
+
+Operating System
+
+	     Windows 10/11, Amazon Linux (EC2)
+
+Environment
+
+	Client/Server, Cloud-based Data Processing (AWS), Distributed Computing (Apache Spark),Big       Data   Analytics
+
+Database
+
+	  Hive, Amazon Athena, AWS Glue Data Catalog, MySQL, Amazon S3 (as data lake storage)
+
+Cloud
+
+	   Jupyter Notebook, DataBricks, AWS, Google Collab
+
+Languages
+
+	   PySpark, Java, C, Scala, SQL (HiveQL, Athena SQL)
+
+Other
+
+	Git/GitHub, Data Cleaning & Transformation (Pandas, PySpark), Bucketing), Cloud Services (AWS    EC2, S3, Glue, Athena, IAM), Workflow Orchestration (Apache Airflow), Big Data Processing (Spark Core,Hadoop), Performance Optimization, Agile/Scrum Methodologies
+
+
+
+Functional
+
+Management and Leadership Skills
+
+	Experienced in planning and task allocation to maintain balanced workloads across teams
+
+	Adept at project management, ensuring all deliverables meet time-specific goals and deadlines
+
+	Strong focus on clear communication, accountability, and timely progress updates for effective coordination
+
+	Skilled in cross-functional collaboration, fostering synergy between development, design, and QA teams to streamline workflows and enhance overall project efficienc
+
+	
+
+	
+
+Training & Development 
+
+	Trained in Big Data and Cloud technologies during Capgemini’s intensive program.
+
+	Provided peer assistance during hands-on sessions involving data cleaning, query solving, and distributed computing
+
+	Collaborative approach to troubleshooting and resolving technical issues within the team.
+
+	Eager to learn and adapt, consistently seeks guidance and feedback to improve technical proficiency and contribute effectively to team goals.
+
+	Demonstrated enthusiasm in collaborative learning environments, actively participating in group discussions and peer learning sessions during training.
+
+	
+
+	
+
+	
+
+
+
+
+
+Professional Experience
+
+Capgemini Training Project – E-commerce Recommendation Engine 
+
+May 2025 – July 2025 
+
+Role: Team Lead – Big Data Engineer 
+
+
+
+Developed a personalized book recommendation engine using collaborative filtering techniques on an e-commerce dataset. The project aimed to address the challenge of data overload by suggesting relevant products to users based on their past behavior and similar user preferences.
+
+Worked with a raw dataset containing 5,80,000 records, which was cleaned and reduced to 3,20,000 records using Pandas
+
+Solved 20 complex queries using PySpark, Spark SQL, Scala, Hive QL, and DataFrames
+
+Implemented item-based and user-based recommendations using Apache Mahout
+
+Used Cloudera for Hive queries and developed solutions on Jupyter, Google Colab, and Databricks platforms
+
+Followed Agile methodology for sprint planning, task execution, and team collaboration
+
+Visualized insights and recommendation results using Tableau
+
+Environment:   HDFS, PySpark, Hive QL, Scala, Sqoop, Databricks, Tableau, Cloudera, Jupyter, Google Colab
+
+Bharat Bhraman – AI Trip Planner
+
+ Feb 2025 – Mar 2025 
+
+Role: Frontend Developer & Team Lead
+
+
+
+	Led the frontend development of an intelligent travel planning web application that uses Generative AI to recommend personalized destinations and itineraries based on user preferences. 
+
+Designed and implemented a responsive, user-friendly interface using HTML, CSS, and JavaScript, ensuring seamless navigation and accessibility across devices
+
+Integrated dynamic content modules that adapt travel plans based on real-time data and user inputs, enhancing personalization and flexibility
+
+Collaborated with backend developers to connect APIs for flight, train, and hotel data, enabling real-time itinerary generation
+
+Developed an interactive final results page that showcases personalized destination ideas, curated using Generative AI based on user preferences and travel history
+
+Focused on delivering a visually engaging and informative experience to help users make confident travel decisions
+
+
+
+Summary of Projects
+
+	 E-commerce Recommendation Engine – Capgemini Training Project	Jun 2025 – Aug 2025
+
+	 Team Lead – Big Data Engineer
+
+	Built a recommendation system using collaborative filtering on a large e-commerce dataset. Cleaned over 5.8 lakh records down to 3.2 lakh using Pandas and solved 20 queries using PySpark, Hive, and Scala. Managed the project using Agile methodology and visualized results with Tableau. 
+
+	
+
+	Bharat Bhraman – AI Trip Planner	Feb 2025 – Mar 2025
+
+	Frontend Developer & Team Lead
+
+	Led the frontend development of an AI-powered travel planner that recommends personalized destinations using real-time data and Generative AI. Designed a responsive interface and integrated APIs for flights, trains, and hotels, with a final results page showcasing curated travel ideas.
+
+ment: HTML, CSS, JavaScript, Flask (backend), REST APIs, Generative AI, Responsive Design
+
+	
+
+Training and Seminars
+
+Completed Capgemini Big Data Training Program, covering Hadoop, Hive, HBase, Spark, Scala, PySpark, Oracle SQL, MySQL, and Unix OS
+
+Participated in hands-on sessions involving real-world datasets and recommendation engine development
+
+Learned AWS fundamentals including S3 data transfer and permission management
+
+Conducted peer mentoring sessions during training, sharing knowledge on PySpark and Hive query optimization
+
+
+
+Education
+
+Lakshmi Narain College of Technology and Science Bhopal Madhya Pradesh                                                               2021-2025   
+
+
+
+
+
+
+
+
+
+3

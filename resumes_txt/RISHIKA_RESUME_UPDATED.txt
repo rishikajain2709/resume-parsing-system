@@ -1,0 +1,54 @@
+Bharat Bhraman - A.I. Trip Planner
+Developed an AI Trip Planner with Python (Flask) backend, integrating APIs for real-time flight, train, and hotel data.
+Leveraged Generative AI for personalized destination recommendations and implemented dynamic content
+management for adaptable travel plans.PROJECTS
+Cro Technologies    (Freelance)                                                                                                  
+Designed and developed the responsive website for Cro Technologies  using HTML, CSS, and JavaScript. 
+Gained expertise in responsive web design, cross-browser compatibility, accessibility, and collaborated
+effectively within a team to implement modern web design practices.Recipe Website         
+. Developed a robust React recipe app with CRUD operations, routing, and context management, mastering state
+handling with React hooks and enhancing RESTful API integration skills.   
+Expanded expertise in user interface design by creating an intuitive recipe management system, focusing on usability
+and responsive design principles.RailVaani
+Designed and implemented the front-end interface for Railvaani using HTML, CSS, and JavaScript, focusing on an
+intuitive user experience and accessibility.
+Integrated interactive features for real-time train information and scheduling, ensuring seamless user interaction.
+Reimagined the Omega watch website and Cadbury's website
+Redesigned the Omega watch website and Cadbury’s website, enhancing their UI/UX to modernize the user
+experience and improve brand engagement
+- Utilized advanced libraries like ScrollTrigger, GSAP, and Locomotive JS to create interactive, smooth, and engaging
+user experiences for the redesigned Omega and Cadbury websites.
+EDUCATIONSKILLS
+DSA
+HTML, CSS, JavaScript
+REACT-JS & NODE-JSJAVA
+C
+MYSQL(RELATIONAL DATABASE)
+Won first place among 100 teams in Hackfest '24, a prestigious national hackathon event organized by IIT
+DHANBAD.
+Earned the top spot among 180 students at Sheryians Pvt Limited in the Java challenge, showcasing
+exceptional proficiency.
+Actively participated in renowned hackathons including CodeBite 2k23, HackJNU 3.0, Reckon 5.0,
+InnoHacks 3.0, and Reimagine 2k24, showcasing my problem-solving skills, innovative thinking, and
+expertise in full-stack development and UI/UX design.
+Mentored over 200 students in C and over 100 students in Java and helped them in basic programming at
+Sheryians Private Limited. 
+Achieved a notable accomplishment of receiving 5 stars in Java and MySQL by HackerRank, demonstrating
+high competency in these areas.ACHIEVEMENTS Rishika Jain 
+Software Developer
+Dedicated and skilled aspiring software developer with a strong foundation in front-end development 
+and proven problem-solving abilities.
+rishikajain2709@gmail.com
+Visit LeetCode Profile
+Visit Linkedin Profile
+Visit GitHub Profile
+HIGH SCHOOL-91.4%
+BHARAT MATA CONVENT 
+SENIOR SECONDARY SCHOOL 
+2019HIGHER SCHOOL-92.2%
+TT JAIN HIGHER
+SECONDARY SCHOOL 
+2021BACHELOR OF TECHNOLOGY 
+LAKSHMI NARAIN COLLEGE OF
+TECHNOLOGY & SCIENCE
+2021-2025

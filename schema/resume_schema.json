@@ -1,0 +1,62 @@
+{
+  "type": "object",
+  "properties": {
+    "Candidate_Emp_ID": { "type": "string" },
+    "Candidate_name": { "type": "string" },
+    "Current_Role": { "type": "string" },
+    "Candidate_grade": { "type": "string" },
+    "Profile_location": { "type": "string" },
+    "Domains_known": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "Total_experience_years": { "type": "string" },
+ 
+    "Tech_skillset": {
+      "type": "object",
+      "properties": {
+        "primary_tech_skills": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "secondary_tech_skills": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "additionalProperties": false
+    },
+ 
+    "Functional_skillset": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+ 
+    "Overall_responsibilities": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+ 
+    "Previously_worked_for_the_customer": {
+      "type": "string",
+      "enum": ["yes", "no", "insufficient data"]
+    },
+ 
+    "Count_of_projects": { "type": "string" },
+    "Current_project_age": { "type": "string" },
+ 
+    "Fitness_summary": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+ 
+  "required": [
+    "Candidate_name",
+    "Current_Role",
+    "Total_experience_years",
+    "Tech_skillset"
+  ],
+ 
+  "additionalProperties": false
+}

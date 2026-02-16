@@ -1,0 +1,61 @@
+{
+    "Candidate_Emp_ID": "insufficient data",
+    "Candidate_name": "Ankit Bhardwaj",
+    "Current_Role": "Data Engineer",
+    "Candidate_grade": "insufficient data",
+    "Profile_location": "insufficient data",
+    "Domains_known": [
+        "big data processing",
+        "real-time pipelines",
+        "cloud-based analytics"
+    ],
+    "Total_experience_years": "2",
+    "Tech_skillset": {
+        "primary_tech_skills": [
+            "PySpark",
+            "Scala",
+            "Hive QL",
+            "Python",
+            "SQL",
+            "Spark",
+            "Hive",
+            "Kafka",
+            "AWS"
+        ],
+        "secondary_tech_skills": [
+            "Git/GitHub",
+            "Data Cleaning & Transformation (Pandas, PySpark)",
+            "ETL Development",
+            "Data Visualization (QuickSight, Matplotlib, Seaborn)",
+            "Data Warehousing (Partitioning, Bucketing)",
+            "Real-time Data Streaming (Kafka)",
+            "Cloud Services (AWS EC2, S3, Glue, Athena, IAM)",
+            "Workflow Orchestration (Apache Airflow)",
+            "Big Data Processing (Spark Core, Spark SQL)",
+            "Performance Optimization",
+            "Agile/Scrum Methodologies"
+        ]
+    },
+    "Functional_skillset": [
+        "Management and Leadership Skills",
+        "Training & Development"
+    ],
+    "Overall_responsibilities": [
+        "planning and task allocation to maintain balanced workloads across teams",
+        "project management, ensuring all deliverables meet time-specific goals and deadlines",
+        "clear communication, accountability, and timely progress updates for effective coordination",
+        "knowledge sharing to enhance team learning and technical competence",
+        "explaining complex technical concepts in a clear and accessible manner",
+        "peer assistance during hands-on training in Big Data and Cloud technologies",
+        "collaborative approach to troubleshooting and resolving technical issues within the team"
+    ],
+    "Previously_worked_for_the_customer": "yes",
+    "Count_of_projects": "4",
+    "Current_project_age": "insufficient data",
+    "Fitness_summary": [
+        "Built a scalable big data pipeline using PySpark, Scala, and Hive QL for analyzing Netflix content",
+        "Architected an end-to-end real-time data ingestion and analysis pipeline",
+        "Engineered an interactive BI dashboard in Amazon QuickSight analyzing Netflix's catalog (6K+ titles) with bar charts, donut charts, and pivot tables",
+        "Designed and deployed an automated ETL pipeline for Twitter data"
+    ]
+}
